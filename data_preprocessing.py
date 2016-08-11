@@ -43,7 +43,7 @@ def load_data_and_labels():
     # training_data = list(training)
     training_data = [s.strip() for s in training]
     # Split by words
-    x_text = training_data# + negative_examples
+    x_text = training_data
     x_text = [clean_str(sent) for sent in x_text]
     # Generate labels
     label =[]
