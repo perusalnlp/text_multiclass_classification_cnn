@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/swati_c_tiwari/Documents/MLExamples/Indix_assignment/Indix_assignment/runs/1470847589/checkpoints/model-1800"
+all_model_checkpoint_paths: "/home/swati_c_tiwari/Documents/MLExamples/Indix_assignment/Indix_assignment/runs/1470847589/checkpoints/model-1400"
+all_model_checkpoint_paths: "/home/swati_c_tiwari/Documents/MLExamples/Indix_assignment/Indix_assignment/runs/1470847589/checkpoints/model-1500"
+all_model_checkpoint_paths: "/home/swati_c_tiwari/Documents/MLExamples/Indix_assignment/Indix_assignment/runs/1470847589/checkpoints/model-1600"
+all_model_checkpoint_paths: "/home/swati_c_tiwari/Documents/MLExamples/Indix_assignment/Indix_assignment/runs/1470847589/checkpoints/model-1700"
+all_model_checkpoint_paths: "/home/swati_c_tiwari/Documents/MLExamples/Indix_assignment/Indix_assignment/runs/1470847589/checkpoints/model-1800"
